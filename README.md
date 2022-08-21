@@ -5,6 +5,7 @@ e-hentai.org mirror powered by Translate (G)
 - visit any original page
 - replace `https` to `http`
 - replace `e-hentai.org` to `eh.xxx.kozow.com`
+- replace trailing path `/?page=1` to `/?v=/?page=1`
 
 # important
 - Disclaimer: This host has no knowledge regarding the redirected website.
