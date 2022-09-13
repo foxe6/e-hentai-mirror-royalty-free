@@ -3,8 +3,10 @@ e-hentai.org mirror powered by Translate (G)
 
 # how-to-use
 - visit any original page
-- replace `https` to `http`
-- replace `e-hentai.org` to `e.hentai.xxx.kozow.com`
+- replace `e-hentai.org` to `e.hentaihub.cf`
+- backup
+  - replace `https` to `http`
+  - replace `e-hentai.org` to `e.hentai.xxx.kozow.com`
 
 # important
 - Disclaimer: This host has no knowledge regarding the redirected website.
